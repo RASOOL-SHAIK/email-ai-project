@@ -1,0 +1,49 @@
+/* Global reset – removes all default margins/paddings */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Full‑height background that covers the entire viewport */
+html, body, #root {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  /* Premium dark gradient – fits edge to edge */
+background: url('/your-image.jpg') center/cover no-repeat;  /* Alternative: solid dark background */
+  /* background: #0b1120; */
+  
+  /* Optional: subtle animated grain effect (remove if not desired) */
+  /* background-image: repeating-linear-gradient(45deg, rgba(255,255,255,0.02) 0px, rgba(255,255,255,0.02) 2px, transparent 2px, transparent 8px); */
+  
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Smooth scrolling (optional) */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Custom scrollbar (optional, fits modern design) */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #1e293b;
+  border-radius: 10px; 
+}
+::-webkit-scrollbar-thumb {
+  background: #475569;
+  border-radius: 10px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #64748b;
+}
