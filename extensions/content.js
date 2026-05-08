@@ -1,7 +1,7 @@
 console.log("Email Writer Extension - Content Script Loaded");
 
 function createAIButton() {
-    const button = document.createElement('div');
+    const button = document.createElement('div'); 
    button.className = 'T-I J-J5-Ji aoO v7 T-I-atl L3';
    button.style.marginRight = '8px';
    button.innerHTML = 'AI Reply';
