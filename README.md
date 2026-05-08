@@ -27,15 +27,16 @@ Hoisted Link : https://email-ai-frontend-two.vercel.app/ tap here for quick revi
 
 # 🚀 Features
 
-- Gmail Chrome extension integration
-- AI-generated email replies
-- Multiple reply tones
-- Real-time response generation
-- Copy-to-clipboard support
-- Responsive modern UI
-- REST API integration with Spring Boot
-- Gemini AI integration
-
+- 📧 Gmail UI integration using Chrome Extension
+- 🤖 AI-generated email replies in real-time
+- 🎭 Multiple reply tones (Professional, Casual, Friendly)
+- ⚡ Instant response generation using Gemini AI
+- 📋 Copy-to-clipboard functionality
+- 🎨 Responsive and modern user interface
+- 🔗 Spring Boot REST API integration
+- 🧠 Gemini AI powered backend processing
+- 🌐 Frontend deployed on Vercel
+- ☁️ Backend deployed on Render
 ---
 
 # 🛠️ Tech Stack
