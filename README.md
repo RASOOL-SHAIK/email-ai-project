@@ -3,8 +3,7 @@ Full-stack AI Email Reply Generator with React frontend, Spring Boot backend, Ge
 Hoisted Link : https://email-ai-frontend-two.vercel.app/ tap here for quick review.
 
 # ✨ AI Email Reply Generator : An AI-powered email assistant built using React.js, Spring Boot, and Gemini AI that generates instant professional email replies. Includes Gmail Chrome Extension integration for generating replies directly inside Gmail, improving productivity and reducing manual effort.
-# 📸 Screenshots
-
+# 📸 Screenshots 
 # 📧 Gmail AI Reply Integration
 
 <img width="1794" height="876" alt="image" src="https://github.com/user-attachments/assets/0cf71f40-f8a9-44ac-a6a4-d61a94e87225" /> 
