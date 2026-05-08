@@ -6,7 +6,7 @@ Hoisted Link : https://email-ai-frontend-two.vercel.app/ tap here for quick revi
 
 # 📸 Screenshots
 
-## 📧 Gmail AI Reply Integration
+# 📧 Gmail AI Reply Integration
 
 <img width="1794" height="876" alt="image" src="https://github.com/user-attachments/assets/0cf71f40-f8a9-44ac-a6a4-d61a94e87225" /> 
 <img width="1854" height="900" alt="Screenshot 2026-05-08 151718" src="https://github.com/user-attachments/assets/c0f476cf-b18c-4ac8-b0c6-2c826123588e" />
