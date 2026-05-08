@@ -1,4 +1,4 @@
-package com.email.writer.app;
+package com.email.writer.app; 
 
 import lombok.AllArgsConstructor;
 import org.springframework.http.ResponseEntity;
