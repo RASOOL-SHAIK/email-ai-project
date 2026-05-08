@@ -12,17 +12,14 @@ Hoisted Link : https://email-ai-frontend-two.vercel.app/ tap here for quick revi
 # 📧 Gmail AI Generated Reply Output
 
 <img width="1854" height="900" alt="Screenshot 2026-05-08 151718" src="https://github.com/user-attachments/assets/c0f476cf-b18c-4ac8-b0c6-2c826123588e" />
----
 
 ## 🖥️ Main Application UI
 
 <img width="1919" height="1017" alt="image" src="https://github.com/user-attachments/assets/baf9a148-9899-4009-9830-1a9dad3cd768" />
----
 
 ## 🤖 AI Generated Reply Output
 
 <img width="1900" height="969" alt="Screenshot 2026-05-08 144249" src="https://github.com/user-attachments/assets/01a8b3d0-a35a-437a-8a74-22375326e5b0" />
----
 
 # 🚀 Features
 
